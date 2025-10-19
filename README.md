@@ -10,7 +10,7 @@ Projetos feitos em disciplinas da faculdade.
 
 | Projeto | Linguagem | Descrição |
 |----------|------------|------------|
-| [Média de Números]([anexos/medianumerosreais.pdf](https://github.com/user-attachments/files/22991886/medianumerosreais.pdf)) | C++ | Calcula a média de N números reais. |
+| [Média de Números]((https://github.com/user-attachments/files/22991886/medianumerosreais.pdf)) | C++ | Calcula a média de N números reais. |
 
 ---
 
@@ -19,7 +19,7 @@ Projetos feitos por interesse próprio.
 
 | Projeto | Linguagem | Descrição |
 |----------|------------|------------|
-| [Sistema de Senhas]([anexos/senhasupersegura.pdf](https://github.com/user-attachments/files/22991885/senhasupersegura.2.pdf) | C++ | Sistema simples de login com senha e limite de tentativas. |
+| [Sistema de Senhas]((https://github.com/user-attachments/files/22991885/senhasupersegura.2.pdf) | C++ | Sistema simples de login com senha e limite de tentativas. |
 
 ---
 
