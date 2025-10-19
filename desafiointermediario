@@ -14,20 +14,6 @@ Projetos feitos em disciplinas da faculdade.
 | [Sistema de Senhas](./Projetos-Academicos/Sistema-de-Senhas) | C++ | Sistema simples de login com senha e limite de tentativas. |
 
 ---
-/
-├── projetos_academicos/
-│   ├── sistema_senhas/
-│   ├── calculadora_c/
-│   └── media_notas/
-├── projetos_pessoais/
-│   ├── site_portfolio/
-│   └── jogo_python/
-├── documentacao/
-│   ├── guia_git.md
-│   ├── plano_de_versionamento.md
-│   └── relatorios/
-└── README.md
----
 
 ## 💡 Projetos Pessoais
 Projetos feitos por interesse próprio.
@@ -43,6 +29,22 @@ Projetos feitos por interesse próprio.
 - Git e GitHub
 - Visual Studio Code / Dev-C++
 - Markdown
+
+---
+
+/
+├── projetos_academicos/
+│   ├── sistema_senhas/
+│   ├── calculadora_c/
+│   └── media_notas/
+├── projetos_pessoais/
+│   ├── site_portfolio/
+│   └── jogo_python/
+├── documentacao/
+│   ├── guia_git.md
+│   ├── plano_de_versionamento.md
+│   └── relatorios/
+└── README.md
 
 ---
 
