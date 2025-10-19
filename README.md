@@ -10,8 +10,7 @@ Projetos feitos em disciplinas da faculdade.
 
 | Projeto | Linguagem | Descrição |
 |----------|------------|------------|
-| [Média de Números](./Projetos-Academicos/Media-de-Numeros) | C | Calcula a média de N números reais. |
-| [Sistema de Senhas](./Projetos-Academicos/Sistema-de-Senhas) | C++ | Sistema simples de login com senha e limite de tentativas. |
+| [Média de Números](file:///C:/Users/alexc/OneDrive/Documentos/Marco%20T%C3%BAlio/anexos/medianumerosreais.pdf) | C | Calcula a média de N números reais. |
 
 ---
 
@@ -20,7 +19,7 @@ Projetos feitos por interesse próprio.
 
 | Projeto | Linguagem | Descrição |
 |----------|------------|------------|
-| [Calculadora em C](./Projetos-Pessoais/Calculadora-em-C) | C | Calculadora básica de quatro operações. |
+| | [Sistema de Senhas](file:///C:/Users/alexc/OneDrive/Documentos/Marco%20T%C3%BAlio/anexos/senhasupersegura%20(2).pdf) | C++ | Sistema simples de login com senha e limite de tentativas. |
 
 ---
 
