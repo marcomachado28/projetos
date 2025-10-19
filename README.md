@@ -39,3 +39,4 @@ Projetos feitos por interesse próprio.
 ---
 
 > *Este portfólio foi criado com o objetivo de demonstrar minha evolução como estudante e programador, aplicando boas práticas de código e versionamento.*
+
