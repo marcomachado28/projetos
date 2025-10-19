@@ -19,7 +19,7 @@ Projetos feitos por interesse próprio.
 
 | Projeto | Linguagem | Descrição |
 |----------|------------|------------|
-| [Sistema de Senhas]((https://github.com/user-attachments/files/22991885/senhasupersegura.2.pdf) | C++ | Sistema simples de login com senha e limite de tentativas. |
+| [Sistema de Senhas](https://github.com/user-attachments/files/22991885/senhasupersegura.2.pdf) | C++ | Sistema simples de login com senha e limite de tentativas. |
 
 ---
 
