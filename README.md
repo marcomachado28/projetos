@@ -1,6 +1,6 @@
 # 💼 Portfólio de Projetos — Marco Túlio de Sousa Machado
 
-Bem-vindo(a) ao meu portfólio!  
+Bem-vindo(a) ao meu portfólio!   
 Este repositório reúne meus **projetos acadêmicos e pessoais**, desenvolvidos para praticar lógica, programação e boas práticas de versionamento com GitHub.
 
 ---
