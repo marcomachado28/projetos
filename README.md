@@ -10,7 +10,7 @@ Projetos feitos em disciplinas da faculdade.
 
 | Projeto | Linguagem | Descrição |
 |----------|------------|------------|
-| [Média de Números](.file:///C:/Users/alexc/OneDrive/Documentos/Marco%20T%C3%BAlio/anexos/medianumerosreais.pdf)] | C++ | Calcula a média de N números reais. |
+| [Média de Números](anexos/medianumerosreais.pdf) | C++ | Calcula a média de N números reais. |
 
 ---
 
@@ -19,7 +19,7 @@ Projetos feitos por interesse próprio.
 
 | Projeto | Linguagem | Descrição |
 |----------|------------|------------|
-| | [Sistema de Senhas](.file:///C:/Users/alexc/OneDrive/Documentos/Marco%20T%C3%BAlio/anexos/senhasupersegura%20(2).pdf)] | C++ | Sistema simples de login com senha e limite de tentativas. |
+| [Sistema de Senhas](anexos/senhasupersegura.pdf) | C++ | Sistema simples de login com senha e limite de tentativas. |
 
 ---
 
