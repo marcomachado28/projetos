@@ -10,7 +10,7 @@ Projetos feitos em disciplinas da faculdade.
 
 | Projeto | Linguagem | Descrição |
 |----------|------------|------------|
-| [Média de Números]((https://github.com/user-attachments/files/22991886/medianumerosreais.pdf)) | C++ | Calcula a média de N números reais. |
+| [Média de Números](https://github.com/user-attachments/files/22991886/medianumerosreais.pdf) | C++ | Calcula a média de N números reais. |
 
 ---
 
