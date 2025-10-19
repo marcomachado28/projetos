@@ -32,22 +32,6 @@ Projetos feitos por interesse próprio.
 
 ---
 
-/
-├── projetos_academicos/
-│   ├── sistema_senhas/
-│   ├── calculadora_c/
-│   └── media_notas/
-├── projetos_pessoais/
-│   ├── site_portfolio/
-│   └── jogo_python/
-├── documentacao/
-│   ├── guia_git.md
-│   ├── plano_de_versionamento.md
-│   └── relatorios/
-└── README.md
-
----
-
 ## 🌐 Contato
 📧 **E-mail:** marcotuliosousamachado@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/marcotulio](https://www.linkedin.com/feed/?trk=onboarding-landing)  
